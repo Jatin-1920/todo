@@ -6,7 +6,8 @@
 .quesCol{
     padding: 1rem;
     font-weight: bold;
-    display: grid;
+    display: flex;
+flex-direction:column;
     gap: 1rem;
     margin: 2rem 4rem;
     border: 2px solid black;
@@ -57,4 +58,6 @@ font-weight: bold;
     color: greenyellow;
     font-weight: bold;
     }
+.quesCol{
+margin: 2rem .5rem;}
 }
