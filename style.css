@@ -59,5 +59,9 @@ font-weight: bold;
     font-weight: bold;
     }
 .quesCol{
-margin: 2rem .5rem;}
+padding: .5rem;
+margin: 2rem .5rem;
+font-weight:400;
+}
+
 }
