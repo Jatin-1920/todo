@@ -1,6 +1,6 @@
 
 .content{
-    padding-top: 15rem;
+    padding-top: 20rem;
 }
 
 .quesCol{
@@ -54,7 +54,7 @@ font-weight: bold;
         z-index: 1000;
         padding: 1rem;
         display: grid;
-    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-columns: 1fr 1fr;
     gap: 2rem;
     background: black;
     color: greenyellow;
