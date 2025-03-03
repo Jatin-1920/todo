@@ -160,7 +160,7 @@ const histData =[
 
     },
 ]
-const histHtml = geoData.map(e =>
+const histHtml = histData.map(e =>
     `<div class="quesCol">
     <div class="ques">${e.ques}</div>
      <div class="op">${e.aop}</div>
