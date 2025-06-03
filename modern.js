@@ -857,9 +857,9 @@ ans: "B M malabari",
 const modHtml = modernData.map(e =>
     `<div class="quesCol">
                     <div class="ques">${e.ques}</div>
-                     <div class="ans">${e.aop}</div>
+                     <div class="op">${e.aop}</div>
                       <div class="op">${e.cop}</div>
-                       <div class="op">${e.ans}</div>
+                       <div class="ans">${e.ans}</div>
                         <div class="op">${e.bop}</div>
                     </div>
                     
